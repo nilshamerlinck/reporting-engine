@@ -10,5 +10,6 @@ rebel_module_groups: []
 repo_description: 'TODO: add repo description.'
 repo_name: reporting-engine
 repo_slug: reporting-engine
-travis_apt_packages: []
+travis_apt_packages:
+- libreoffice
 travis_apt_sources: []
